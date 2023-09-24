@@ -1,0 +1,1 @@
+curl 'http://qdrant-bluu.hndph9ghcqerengf.westeurope.azurecontainer.io:6333/collections/bluu'
